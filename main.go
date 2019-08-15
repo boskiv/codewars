@@ -5,5 +5,5 @@ import "codewars/roman"
 
 func main()  {
 	// Roman Decoder
-	log.Print(roman.Decode("XI"))
+	log.Print(roman.Decode("MDCLXVI"))
 }

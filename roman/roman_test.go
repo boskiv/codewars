@@ -19,7 +19,7 @@ func TestDecode(t *testing.T) {
 		{"MMVIII",args{"MMVIII"},2008},
 		{"MDCLXVI",args{"MDCLXVI"},1666},
 		{"XXI",args{"XXI"},21},
-		{"MCMXC",args{"MCMXC"},1900},
+		{"MCMXC",args{"MCMXC"},1990},
 
 	}
 	for _, tt := range tests {
